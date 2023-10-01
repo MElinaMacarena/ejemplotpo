@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Montserrat:wght@200&family=Roboto+Condensed:wght@300&family=Tektur&display=swap');
+nav {
+
+    display:flex;
+    background-color: var(--bg-color);
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px, 40%;
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+
+nav h1 {
+    color: var(--primary-color)
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    flex-direction: row ;
+}

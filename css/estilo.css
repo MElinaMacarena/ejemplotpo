@@ -1,0 +1,8 @@
+
+/*====importar todos los css ====*/
+@import 'styles/_variables.css';
+@import 'styles/_header.css';
+@import 'styles/_main.css';
+@import 'styles/_footer.css';
+@import 'styles/_general.css';
+
